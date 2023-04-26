@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T21:35:14 IST" name="Suite" finished-at="2023-04-25T21:35:54 IST" duration-ms="40470">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T21:35:14 IST" name="Test" finished-at="2023-04-25T21:35:54 IST" duration-ms="40470">
+      <class name="mp.magentoProj.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:14 IST" name="setup" finished-at="2023-04-25T21:35:28 IST" duration-ms="13521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDefaultMessage()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:28 IST" name="verifyDefaultMessage" finished-at="2023-04-25T21:35:30 IST" duration-ms="2534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDefaultMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:30 IST" name="tearDown" finished-at="2023-04-25T21:35:31 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:31 IST" name="setup" finished-at="2023-04-25T21:35:43 IST" duration-ms="12622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogo()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:43 IST" name="verifyLogo" finished-at="2023-04-25T21:35:43 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:43 IST" name="tearDown" finished-at="2023-04-25T21:35:44 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:44 IST" name="setup" finished-at="2023-04-25T21:35:54 IST" duration-ms="10122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:54 IST" name="verifyTitle" finished-at="2023-04-25T21:35:54 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mp.magentoProj.testcases.HomePageTest@1d2adfbe]" started-at="2023-04-25T21:35:54 IST" name="tearDown" finished-at="2023-04-25T21:35:54 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mp.magentoProj.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
